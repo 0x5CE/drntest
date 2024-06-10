@@ -12,4 +12,4 @@ platform:
 steps:
 - name: greeting
   commands:
-  - echo hello world83
+  - echo hello world830
